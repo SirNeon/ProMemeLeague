@@ -22,6 +22,7 @@ Linux users may need to use:
 ### How to Run the Bot
 To run the bot:
 
+* Edit the settings.cfg file with the login credentials for the Reddit account you want to use
 * Open your terminal/command prompt
 * Navigate to the bot's directory
 * Run the code
