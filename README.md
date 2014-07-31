@@ -24,7 +24,8 @@ To run the bot:
 
 * Open your terminal/command prompt
 * Navigate to the bot's directory
-* run the following command:
+* Run the code
 
+To run the code, enter this into your terminal:
 
     python pmlbot.py
