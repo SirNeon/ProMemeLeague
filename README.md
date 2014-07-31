@@ -19,3 +19,11 @@ Linux users may need to use:
 
     sudo pip install -r requirements.txt
     
+### How to Run the Bot
+To run the bot:
+
+* Open your terminal/command prompt
+* Navigate to the bot's directory
+* run the following command:
+
+    python pmlbot.py
